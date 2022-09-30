@@ -13,7 +13,7 @@ const options = {
 	method: 'POST',
 	headers: {
 		'content-type': 'application/json',
-		'X-RapidAPI-Key': '5ff71a972amsha91b71a64759e71p1982f1jsn3e63dfe04a5f',
+		'X-RapidAPI-Key': 'x',
 		'X-RapidAPI-Host': 'deep-translate1.p.rapidapi.com'
 	},
 	body: `{"q":"${store.source}","source":"en","target":"${store.language}"}`
